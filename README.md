@@ -50,3 +50,6 @@ As constantes no topo do arquivo definem o tamanho da janela:
 |-----------|--------|-------------------------|
 | `LARGURA` | 600    | Largura da área de jogo |
 | `ALTURA`  | 400    | Altura da área de jogo  |
+
+
+<img width="595" height="436" alt="image" src="https://github.com/user-attachments/assets/6ec1126c-c454-4155-91f7-ff99de739ece" />
