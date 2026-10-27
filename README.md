@@ -53,3 +53,5 @@ As constantes no topo do arquivo definem o tamanho da janela:
 
 
 <img width="595" height="436" alt="image" src="https://github.com/user-attachments/assets/6ec1126c-c454-4155-91f7-ff99de739ece" />
+<img width="715" height="515" alt="image" src="https://github.com/user-attachments/assets/6ce02b5b-23d0-45cc-ab4b-bf7c5529bd3f" />
+
