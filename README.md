@@ -37,7 +37,7 @@ python queimada_oop.py
 O código está em `queimada_oop.py`, com três classes:
 
 - `Ball`: bola que cai, com movimento, detecção de saída da tela e remoção
-- `Player`: jogador (retângulo) e seu movimento horizontal
+- `Player`: jogador com visual futurista e movimento horizontal
 - `Game`: loop do jogo, colisões, geração de bolas, pontuação e tela de fim de jogo
 
 A colisão entre o jogador e as bolas é calculada entre um retângulo e um círculo.
@@ -48,8 +48,8 @@ As constantes no topo do arquivo definem o tamanho da janela:
 
 | Constante | Padrão | Descrição               |
 |-----------|--------|-------------------------|
-| `LARGURA` | 600    | Largura da área de jogo |
-| `ALTURA`  | 400    | Altura da área de jogo  |
+| `LARGURA` | 720    | Largura da área de jogo |
+| `ALTURA`  | 520    | Altura da área de jogo  |
 
 
 <img width="595" height="436" alt="image" src="https://github.com/user-attachments/assets/6ec1126c-c454-4155-91f7-ff99de739ece" />
